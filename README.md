@@ -21,19 +21,32 @@
 <a href="https://learn.microsoft.com/en-gb/users/olsidoci/credentials/3b6c7498981e45d?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
   <img src="https://intunedin.files.wordpress.com/2021/06/image.png" alt="SC-200 Badge" width="100"/>
 </a>
-<p><strong>Microsoft SC-200: Security Operations Analyst Associate</strong></p>
+<p>
+  <a href="https://learn.microsoft.com/en-gb/users/olsidoci/credentials/3b6c7498981e45d?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+    <strong>Microsoft SC-200: Security Operations Analyst Associate</strong>
+  </a>
+</p>
 
 <!-- Microsoft SC-900 -->
 <a href="https://learn.microsoft.com/en-us/users/olsidoci/credentials/77b71d0b2a63c789?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
   <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="SC-900 Badge" width="100"/>
 </a>
-<p><strong>Microsoft SC-900: Security, Compliance, and Identity Fundamentals</strong></p>
+<p>
+  <a href="https://learn.microsoft.com/en-us/users/olsidoci/credentials/77b71d0b2a63c789?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+    <strong>Microsoft SC-900: Security, Compliance, and Identity Fundamentals</strong>
+  </a>
+</p>
 
 <!-- Google Cybersecurity -->
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/2BRW8EEC0I5Q" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo" width="100"/>
 </a>
-<p><strong>Google Cybersecurity Professional Certificate</strong></p>
+<p>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/2BRW8EEC0I5Q" target="_blank">
+    <strong>Google Cybersecurity Professional Certificate</strong>
+  </a>
+</p>
+
 
 <!-- Other Skills -->
 <p>🎯 <strong>Ethical Hacking:</strong> CEH v11 (Attendance Certificate)</p>
