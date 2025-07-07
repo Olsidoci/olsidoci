@@ -16,7 +16,7 @@
   - [RDP Log GeoIP Mapper](https://github.com/olsidoci/rdp-geoip-mapper)
 
 <h2>🎓 Certifications & Skills</h2>
-- 💼 Microsoft SC-200 Certified 
+- 💼 Microsoft SC-200 Certified (https://learn.microsoft.com/en-gb/users/olsidoci/credentials/3b6c7498981e45d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - 💼 Microsoft SC-900 Certified  
 - 🧠 CompTIA Security+  
 - 🎯 Ethical Hacking (CEH v11 - Attendance Certificate)  
