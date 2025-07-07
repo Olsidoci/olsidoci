@@ -8,7 +8,7 @@
   - [SIEM Lab using Splunk & Microsoft Sentinel](https://github.com/olsidoci/siem-lab)
 - <b>Control & Compliance</b>   
 A detailed checklist for security controls and compliance requirements.  
-[Download PDF](file:///C:/Users/odoci/Downloads/Control%20&%20Compliance%20X.pdf)
+[Download PDF](.file:///C:/Users/odoci/Downloads/Control%20&%20Compliance%20X.pdf)
 
 - <b>Threat Intelligence</b>  
   - [Threat Feed Parser & Visualizer (Python)](https://github.com/olsidoci/threat-feed-parser)
