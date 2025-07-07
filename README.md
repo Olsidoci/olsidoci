@@ -20,7 +20,9 @@
   - [Network Hardening (Risk Assessment)](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Analysis%20of%20network%20hardening%20(Risk%20Assesment).pdf)  
   - [NIST Framework](https://github.com/Olsidoci/olsidoci/blob/main/Projects/NIST%20Framework.pdf)
 
-
+- <b>Linux & SQL</b>  
+  - [SQL Filters ](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Network%20Layer%20Communication.pdf)
+  - 
 - <b>Threat Intelligence</b>  
   - [Threat Feed Parser & Visualizer (Python)](https://github.com/olsidoci/threat-feed-parser)
 - <b>PowerShell Tools</b>  
