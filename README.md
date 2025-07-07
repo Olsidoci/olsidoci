@@ -6,7 +6,7 @@
   - [Automated Risk Matrix Generator (Excel + Python + Nessus)](https://github.com/olsidoci/risk-matrix-generator)
 - <b>Security Monitoring & Incident Response</b>  
   - [SIEM Lab using Splunk & Microsoft Sentinel](https://github.com/olsidoci/siem-lab)
-- <b>Control & Compliance</b>  
+- <b>Security Risks</b>  
   [Controls and Compliance Checklist](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Control%20%26%20Compliance%20X.pdf)
 
 - <b>Network & Network Security</b>  
