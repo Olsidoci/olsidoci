@@ -6,9 +6,10 @@
   - [Automated Risk Matrix Generator (Excel + Python + Nessus)](https://github.com/olsidoci/risk-matrix-generator)
 - <b>Security Monitoring & Incident Response</b>  
   - [SIEM Lab using Splunk & Microsoft Sentinel](https://github.com/olsidoci/siem-lab)
-- <b>Compliance & Awareness</b>  
-  - [ISO 27001 Policy Templates (Markdown)](https://github.com/olsidoci/iso27001-policies)
-  - [Security Awareness Campaign Toolkit](https://github.com/olsidoci/security-awareness-kit)
+- <b>Control & Compliance</b>   
+A detailed checklist for security controls and compliance requirements.  
+[Download PDF](./projects/ControlsComplianceChecklist.pdf)
+
 - <b>Threat Intelligence</b>  
   - [Threat Feed Parser & Visualizer (Python)](https://github.com/olsidoci/threat-feed-parser)
 - <b>PowerShell Tools</b>  
