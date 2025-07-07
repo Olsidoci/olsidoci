@@ -9,6 +9,7 @@
 - <b>Control & Compliance</b>   
 [Controls and Compliance Checklist](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Control%20%26%20Compliance%20X.pdf)
 - <b> Network & Network Security </b>
+[Network Layer of Communication](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Netwok%20Layer%20Communication%20.pdf)
 - <b>Threat Intelligence</b>  
   - [Threat Feed Parser & Visualizer (Python)](https://github.com/olsidoci/threat-feed-parser)
 - <b>PowerShell Tools</b>  
