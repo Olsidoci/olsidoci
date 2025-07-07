@@ -8,6 +8,7 @@
   - [SIEM Lab using Splunk & Microsoft Sentinel](https://github.com/olsidoci/siem-lab)
 - <b>Control & Compliance</b>   
 [Controls and Compliance Checklist](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Control%20%26%20Compliance%20X.pdf)
+- <b> Network & Network Security </b>
 - <b>Threat Intelligence</b>  
   - [Threat Feed Parser & Visualizer (Python)](https://github.com/olsidoci/threat-feed-parser)
 - <b>PowerShell Tools</b>  
