@@ -16,15 +16,31 @@
   - [RDP Log GeoIP Mapper](https://github.com/olsidoci/rdp-geoip-mapper)
 
 <h2>🎓 Certifications & Skills</h2>
-- 💼 Microsoft SC-200 Certified - (https://learn.microsoft.com/en-gb/users/olsidoci/credentials/3b6c7498981e45d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- 💼 Microsoft SC-900 Certified - (https://learn.microsoft.com/en-us/users/olsidoci/credentials/77b71d0b2a63c789?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/2BRW8EEC0I5Q" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo" width="100"/>
-</a>
-<p><strong>Google Cybersecurity Professional Certificate</strong></p>
-- 🎯 Ethical Hacking (CEH v11 - Attendance Certificate)  
-- 💬 Languages: Albanian, English, Spanish  
-- 🔧 Tools: Splunk, Sentinel, Qualys, Nessus, CrowdStrike, RSA Archer  
+
+<ul>
+  <li>💼 <strong>Microsoft SC-200 Certified</strong> - 
+    <a href="https://learn.microsoft.com/en-gb/users/olsidoci/credentials/3b6c7498981e45d?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+      Verify Credential
+    </a>
+  </li>
+  <li>💼 <strong>Microsoft SC-900 Certified</strong> - 
+    <a href="https://learn.microsoft.com/en-us/users/olsidoci/credentials/77b71d0b2a63c789?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+      Verify Credential
+    </a>
+  </li>
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo" width="100" />
+    <br/>
+    <strong>Google Cybersecurity Professional Certificate</strong> - 
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/2BRW8EEC0I5Q" target="_blank">
+      View Certificate
+    </a>
+  </li>
+  <li>🎯 <strong>Ethical Hacking</strong> (CEH v11 - Attendance Certificate)</li>
+  <li>💬 <strong>Languages:</strong> Albanian, English, Spanish</li>
+  <li>🔧 <strong>Tools:</strong> Splunk, Microsoft Sentinel, Qualys, Nessus, CrowdStrike, RSA Archer</li>
+</ul>
+
 
 <h2>📚 Education</h2>
 
