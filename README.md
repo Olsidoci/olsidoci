@@ -39,7 +39,7 @@
 
 <!-- Google Cybersecurity -->
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/2BRW8EEC0I5Q" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo" width="100"/>
+  <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Badge" width="100"/>
 </a>
 <p>
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/2BRW8EEC0I5Q" target="_blank">
