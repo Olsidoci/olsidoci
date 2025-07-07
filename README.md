@@ -25,7 +25,7 @@
 
 <!-- Microsoft SC-900 -->
 <a href="https://learn.microsoft.com/en-us/users/olsidoci/credentials/77b71d0b2a63c789?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft.svg" alt="Microsoft Logo" width="100"/>
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="SC-900 Badge" width="100"/>
 </a>
 <p><strong>Microsoft SC-900: Security, Compliance, and Identity Fundamentals</strong></p>
 
