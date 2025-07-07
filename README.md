@@ -2,15 +2,17 @@
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- <b>Risk & Vulnerability Management Dashboards</b>  
-  - [Automated Risk Matrix Generator (Excel + Python + Nessus)](https://github.com/olsidoci/risk-matrix-generator)
-- <b>Security Monitoring & Incident Response</b>  
-  - [SIEM Lab using Splunk & Microsoft Sentinel](https://github.com/olsidoci/siem-lab)
+
 - <b>Security Risks</b>  
   [Controls and Compliance Checklist](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Control%20%26%20Compliance%20X.pdf)
   
 - <b>Assets, Threats, and Vulnerabilities</b>
-  [Asset Inventory](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Assest%20Inventory%20.xlsx)
+
+[Asset Inventory](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Assest%20Inventory%20.xlsx)
+
+[Liklihood & Severity](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Risks%20based%20on%20their%20likelihood%20and%20severity.pdf)
+
+
   
 - <b>Network & Network Security</b>  
   [Network Layer of Communication](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Network%20Layer%20Communication.pdf)
