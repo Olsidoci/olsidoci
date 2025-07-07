@@ -8,7 +8,10 @@
   - [SIEM Lab using Splunk & Microsoft Sentinel](https://github.com/olsidoci/siem-lab)
 - <b>Security Risks</b>  
   [Controls and Compliance Checklist](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Control%20%26%20Compliance%20X.pdf)
-
+  
+- <b>Assets, Threats, and Vulnerabilities</b>
+  [](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Network%20Layer%20Communication.pdf)
+  
 - <b>Network & Network Security</b>  
   [Network Layer of Communication](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Network%20Layer%20Communication.pdf)
 
