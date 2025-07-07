@@ -21,8 +21,8 @@
   - [NIST Framework](https://github.com/Olsidoci/olsidoci/blob/main/Projects/NIST%20Framework.pdf)
 
 - <b>Linux & SQL</b>  
-  - [SQL Filters ](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Network%20Layer%20Communication.pdf)
-  - 
+  - [SQL Filters ](https://github.com/Olsidoci/SQL/tree/main)
+   
 - <b>Threat Intelligence</b>  
   - [Threat Feed Parser & Visualizer (Python)](https://github.com/olsidoci/threat-feed-parser)
 - <b>PowerShell Tools</b>  
