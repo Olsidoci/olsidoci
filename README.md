@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olsi! <br/><a href="https://github.com/olsidoci">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/olsidoci">Security Engineer</a>, <a href="#">Fast Learner</a></h1>
+<h1>Hi, I'm Olsi! <br/><a href="https://github.com/olsidoci">Cybersecurity Specialist</a>, <a href="https://www.linkedin.com/in/olsidoci">Security Engineer</a>, <a href="#">Fast Learner</a></h1>
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
