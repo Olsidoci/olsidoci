@@ -67,12 +67,13 @@
 
 <h2>🤝 Connect with Me</h2>
 
-[<img align="left" alt="Olsi Doci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Olsi Doci | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
+[<img align="left" alt="Olsi Doci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Olsi Doci | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
 <br/><br/>
 
-[linkedin]: https://www.linkedin.com/in/olsidoci  
-[github]: https://github.com/olsidoci  
+[linkedin]: https://www.linkedin.com/in/olsi-doci-18a436200/
+[github]: https://github.com/olsidoci
 
 <!--
 **olsidoci/olsidoci** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
