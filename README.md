@@ -7,7 +7,7 @@
   [Controls and Compliance Checklist](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Control%20%26%20Compliance%20X.pdf)
 
 - <b>Assets, Threats, and Vulnerabilities</b>  
-  - [Asset Inventory](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Assest%20Inventory.xlsx)  
+  - [Asset Inventory](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Assest%20Inventory%20.xlsx)  
   - [Likelihood & Severity](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Risks%20based%20on%20their%20likelihood%20and%20severity.pdf)  
   - [Data Handling Practices](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Data%20Leak%20Wooksheet.pdf)  
   - [Encryption (Hash Values)](https://github.com/Olsidoci/hashvalues)  
