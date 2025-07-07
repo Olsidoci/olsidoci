@@ -16,7 +16,7 @@
 
   [OS Hardening](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Apply%20OS%20hardening%20techniques.pdf)
 
-  [Network Hardening (Risk Assesment)](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Analysis%20of%20network%20hardening%20(Risk%20Assesment).pdf)
+  [Network Hardening (Risk Assessment)](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Analysis%20of%20network%20hardening%20(Risk%20Assesment).pdf)
 
   [NIST Framework](https://github.com/Olsidoci/olsidoci/blob/main/Projects/NIST%20Framework%20.pdf)
   
