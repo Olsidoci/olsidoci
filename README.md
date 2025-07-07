@@ -15,6 +15,8 @@
 [Data Handling Practices](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Data%20Leak%20Wooksheet.pdf)
 
 [Encryption (Hash Values)](https://github.com/Olsidoci/hashvalues)
+
+[Vulnerability Assessment]()
   
 - <b>Network & Network Security</b>  
   [Network Layer of Communication](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Network%20Layer%20Communication.pdf)
