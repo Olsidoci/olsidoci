@@ -21,7 +21,7 @@
   - [NIST Framework](https://github.com/Olsidoci/olsidoci/blob/main/Projects/NIST%20Framework.pdf)
 
 - <b>Linux & SQL</b>
-  - [Linux] (https://github.com/Olsidoci/Linux-)
+  - [Linux](https://github.com/Olsidoci/Linux-)
   - [SQL Filters ](https://github.com/Olsidoci/SQL/tree/main)
    
 - <b>Threat Intelligence</b>  
