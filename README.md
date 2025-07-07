@@ -16,9 +16,10 @@
   - [RDP Log GeoIP Mapper](https://github.com/olsidoci/rdp-geoip-mapper)
 
 <h2>🎓 Certifications & Skills</h2>
-- 💼 [Microsoft SC-200 Certified](https://learn.microsoft.com/en-gb/users/olsidoci/credentials/3b6c7498981e45d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- 💼 Microsoft SC-900 Certified  
-- 🧠 CompTIA Security+  
+- 💼 Microsoft SC-200 Certified - (https://learn.microsoft.com/en-gb/users/olsidoci/credentials/3b6c7498981e45d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- 💼 Microsoft SC-900 Certified - (https://learn.microsoft.com/en-us/users/olsidoci/credentials/77b71d0b2a63c789?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google&logoColor=white)](https://coursera.org/verify/2BRW8EEC0I5Q)
+
 - 🎯 Ethical Hacking (CEH v11 - Attendance Certificate)  
 - 💬 Languages: Albanian, English, Spanish  
 - 🔧 Tools: Splunk, Sentinel, Qualys, Nessus, CrowdStrike, RSA Archer  
