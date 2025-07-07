@@ -5,30 +5,21 @@
 
 - <b>Security Risks</b>  
   [Controls and Compliance Checklist](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Control%20%26%20Compliance%20X.pdf)
-  
-- <b>Assets, Threats, and Vulnerabilities</b>
 
-[Asset Inventory](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Assest%20Inventory%20.xlsx)
+- <b>Assets, Threats, and Vulnerabilities</b>  
+  - [Asset Inventory](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Assest%20Inventory.xlsx)  
+  - [Likelihood & Severity](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Risks%20based%20on%20their%20likelihood%20and%20severity.pdf)  
+  - [Data Handling Practices](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Data%20Leak%20Wooksheet.pdf)  
+  - [Encryption (Hash Values)](https://github.com/Olsidoci/hashvalues)  
+  - [Vulnerability Assessment](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Vulnerability%20Assesment.pdf)
 
-[Likelihood & Severity](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Risks%20based%20on%20their%20likelihood%20and%20severity.pdf)
-
-[Data Handling Practices](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Data%20Leak%20Wooksheet.pdf)
-
-[Encryption (Hash Values)](https://github.com/Olsidoci/hashvalues)
-
-[Vulnerability Assessment](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Vulnerability%20Assesment.pdf)
-  
 - <b>Network & Network Security</b>  
-  [Network Layer of Communication](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Network%20Layer%20Communication.pdf)
+  - [Network Layer of Communication](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Network%20Layer%20Communication.pdf)  
+  - [Network Attack](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Analyze%20Network%20Attacks.pdf)  
+  - [OS Hardening](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Apply%20OS%20hardening%20techniques.pdf)  
+  - [Network Hardening (Risk Assessment)](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Analysis%20of%20network%20hardening%20(Risk%20Assesment).pdf)  
+  - [NIST Framework](https://github.com/Olsidoci/olsidoci/blob/main/Projects/NIST%20Framework.pdf)
 
-  [Network Attack](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Analyze%20Network%20Attacks.pdf)
-
-  [OS Hardening](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Apply%20OS%20hardening%20techniques.pdf)
-
-  [Network Hardening (Risk Assessment)](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Analysis%20of%20network%20hardening%20(Risk%20Assesment).pdf)
-
-  [NIST Framework](https://github.com/Olsidoci/olsidoci/blob/main/Projects/NIST%20Framework%20.pdf)
-  
 
 - <b>Threat Intelligence</b>  
   - [Threat Feed Parser & Visualizer (Python)](https://github.com/olsidoci/threat-feed-parser)
