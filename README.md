@@ -10,7 +10,7 @@
   [Controls and Compliance Checklist](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Control%20%26%20Compliance%20X.pdf)
   
 - <b>Assets, Threats, and Vulnerabilities</b>
-  [](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Network%20Layer%20Communication.pdf)
+  [Asset Inventory](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Assest%20Inventory%20.xlsx)
   
 - <b>Network & Network Security</b>  
   [Network Layer of Communication](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Network%20Layer%20Communication.pdf)
