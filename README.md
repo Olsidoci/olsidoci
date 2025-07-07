@@ -10,7 +10,7 @@
 
 [Asset Inventory](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Assest%20Inventory%20.xlsx)
 
-[Liklihood & Severity](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Risks%20based%20on%20their%20likelihood%20and%20severity.pdf)
+[Likelihood & Severity](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Risks%20based%20on%20their%20likelihood%20and%20severity.pdf)
 
 
   
