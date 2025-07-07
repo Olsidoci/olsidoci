@@ -19,7 +19,7 @@
 
 <!-- Microsoft SC-200 -->
 <a href="https://learn.microsoft.com/en-gb/users/olsidoci/credentials/3b6c7498981e45d?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft.svg" alt="Microsoft Logo" width="100"/>
+  <img src="https://intunedin.files.wordpress.com/2021/06/image.png" alt="SC-200 Badge" width="100"/>
 </a>
 <p><strong>Microsoft SC-200: Security Operations Analyst Associate</strong></p>
 
