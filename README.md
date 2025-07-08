@@ -30,7 +30,7 @@
   - [Phishing Incident](https://github.com/Olsidoci/olsidoci/blob/main/Completed-alert-ticket%20.pdf)
  
 - <b>Python for Cybersecurity</b>
-  - [Python Security Analyst](https://github.com/Olsidoci/automated-cybersecurity-tasks-with-python/blob/main/README.md)
+  - [Python Security Analyst](https://github.com/Olsidoci/automated-cybersecurity-tasks-with-python/tree/main/security-analyst-lab)
 
 
 <h2>🎓 Certifications & Skills</h2>
