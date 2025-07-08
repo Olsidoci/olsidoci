@@ -32,7 +32,7 @@
 #### 🧠 Detection & Response
 - 🔍 [Wireshark Packet Analysis](https://github.com/Olsidoci/wireshark-packet-analysis-lab)
 - 📓 [Incident Handler’s Journal](https://github.com/Olsidoci/olsidoci/blob/main/Projects/incident-handler-s-journal.pdf)
-- 🎣 [Phishing Response Ticket](https://github.com/Olsidoci/olsidoci/blob/main/Completed-alert-ticket%20.pdf)
+- 🎣 [Phishing Response Ticket](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Completed-alert-ticket%20.pdf)
 
 #### 🐍 Python for Cybersecurity
 - 🔁 [Security Analyst Automation](https://github.com/Olsidoci/automated-cybersecurity-tasks-with-python/tree/main/security-analyst-lab)
