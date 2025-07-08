@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/olsidoci">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/olsidoci">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/olsi-doci-18a436200/">LinkedIn</a> • 
   <a href="mailto:olsidoci24@gmail.com">Email</a>
 </p>
 
