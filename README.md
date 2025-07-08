@@ -106,7 +106,7 @@
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="22px" />
 </a>
 
-<br/><br/>
+
 
 
 
