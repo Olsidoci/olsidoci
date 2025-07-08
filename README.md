@@ -23,7 +23,9 @@
 - 🌐 [Network Layers](https://github.com/Olsidoci/asset-threats-network-defense/blob/main/network-layer-communication/Network%20Layer%20Communication.pdf)
 - 🚨 [Network Attacks & Analysis](https://github.com/Olsidoci/asset-threats-network-defense/blob/main/network-attack/Analyze%20Network%20Attacks.pdf)
 - 🧱 [OS Hardening Techniques](https://github.com/Olsidoci/asset-threats-network-defense/blob/main/os-hardening-techniques/Apply%20OS%20hardening%20techniques.pdf)
+- 🔐 [Network Hardening Techniques](https://github.com/Olsidoci/asset-threats-network-defense/blob/main/network-hardening/Analysis%20of%20network%20hardening%20(Risk%20Assesment).pdf)
 - 🧩 [NIST Cybersecurity Framework](https://github.com/Olsidoci/asset-threats-network-defense/blob/main/NIST/NIST%20Framework%20.pdf)
+
 
 #### 🐧 Linux & SQL
 - 💻 [Linux Essentials](https://github.com/Olsidoci/Linux-)
