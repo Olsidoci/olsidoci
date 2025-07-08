@@ -28,6 +28,10 @@
   - [Wireshark](https://github.com/Olsidoci/wireshark-packet-analysis-lab)
   - [Incident Response](https://github.com/Olsidoci/olsidoci/blob/main/Projects/incident-handler-s-journal.pdf)
   - [Phishing Incident](https://github.com/Olsidoci/olsidoci/blob/main/Completed-alert-ticket%20.pdf)
+ 
+- <b>Python for Cybersecurity</b>
+  - [Python Security Analyst](https://github.com/Olsidoci/automated-cybersecurity-tasks-with-python/blob/main/README.md)
+
 
 <h2>🎓 Certifications & Skills</h2>
 
