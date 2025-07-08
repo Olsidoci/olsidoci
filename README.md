@@ -18,7 +18,7 @@
 - 🔑 [Hash Value Encryption](https://github.com/Olsidoci/hashvalues)
 
 #### 🛡️ Assets, Threats & Network Defense
-- 📦 [Asset Inventory](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Assest%20Inventory%20.xlsx)
+- 📦 [Asset Inventory](https://github.com/Olsidoci/asset-threats-network-defense/blob/main/asset-inventory/Assest%20Inventory%20.xlsx)
 - 🎯 [Likelihood & Severity Matrix](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Risks%20based%20on%20their%20likelihood%20and%20severity.pdf)
 - 🌐 [Network Layers](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Network%20Layer%20Communication.pdf)
 - 🚨 [Network Attacks & Analysis](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Analyze%20Network%20Attacks.pdf)
