@@ -32,6 +32,7 @@
 - <b>Python for Cybersecurity</b>
   - [Python Security Analyst](https://github.com/Olsidoci/automated-cybersecurity-tasks-with-python/tree/main/security-analyst-lab)
   - [Import & Parse Text File](https://github.com/Olsidoci/automated-cybersecurity-tasks-with-python/tree/main/login-log-parser)
+  - [Access Control Automation](https://github.com/Olsidoci/automated-cybersecurity-tasks-with-python/tree/main/python-algorithm)
 
 
 <h2>🎓 Certifications & Skills</h2>
