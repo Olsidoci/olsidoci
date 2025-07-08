@@ -24,11 +24,8 @@
   - [Linux](https://github.com/Olsidoci/Linux-)
   - [SQL Filters ](https://github.com/Olsidoci/SQL/tree/main)
    
-- <b>Threat Intelligence</b>  
-  - [Threat Feed Parser & Visualizer (Python)](https://github.com/olsidoci/threat-feed-parser)
-- <b>PowerShell Tools</b>  
-  - [Automated AD User Creation Script](https://github.com/olsidoci/ad-user-creation)
-  - [RDP Log GeoIP Mapper](https://github.com/olsidoci/rdp-geoip-mapper)
+- <b>Detection & Response</b>
+  - - [Wireshark]() 
 
 <h2>🎓 Certifications & Skills</h2>
 
