@@ -96,7 +96,7 @@
 
 ### 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/olsidoci">
+<a href="https://www.linkedin.com/in/olsi-doci-18a436200/">
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" />
 </a>
 <a href="https://github.com/olsidoci">
@@ -108,7 +108,5 @@
 
 <br/><br/>
 
-<!--
-**olsidoci/olsidoci** is a ✨ special ✨ repo — its `README.md` appears on your GitHub profile!
--->
+
 
