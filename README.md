@@ -19,7 +19,7 @@
 
 #### 🛡️ Assets, Threats & Network Defense
 - 📦 [Asset Inventory](https://github.com/Olsidoci/asset-threats-network-defense/blob/main/asset-inventory/Assest%20Inventory%20.xlsx)
-- 🎯 [Likelihood & Severity Matrix](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Risks%20based%20on%20their%20likelihood%20and%20severity.pdf)
+- 🎯 [Likelihood & Severity Matrix](https://github.com/Olsidoci/asset-threats-network-defense/blob/main/likelihood%26severity/Risks%20based%20on%20their%20likelihood%20and%20severity.pdf)
 - 🌐 [Network Layers](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Network%20Layer%20Communication.pdf)
 - 🚨 [Network Attacks & Analysis](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Analyze%20Network%20Attacks.pdf)
 - 🧱 [OS Hardening Techniques](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Apply%20OS%20hardening%20techniques.pdf)
