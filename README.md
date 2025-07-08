@@ -27,6 +27,7 @@
 - <b>Detection & Response</b>
   - [Wireshark](https://github.com/Olsidoci/wireshark-packet-analysis-lab)
   - [Incident Response](https://github.com/Olsidoci/olsidoci/blob/main/Projects/incident-handler-s-journal.pdf)
+  - [Phishing Incident](https://github.com/Olsidoci/olsidoci/blob/main/Completed-alert-ticket%20.pdf)
 
 <h2>🎓 Certifications & Skills</h2>
 
