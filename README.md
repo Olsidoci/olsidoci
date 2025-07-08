@@ -14,7 +14,7 @@
 #### 🧱 Security Risk & Compliance
 - 📄 [Controls and Compliance Checklist](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Control%20%26%20Compliance%20X.pdf)
 - 📦 [Vulnerability Assessment](https://github.com/Olsidoci/risk-compliance/blob/main/vulnerability-assesment/Vulnerability%20Assesment%20(2).pdf)
-- 🔐 [Data Handling Practices](https://github.com/Olsidoci/olsidoci/blob/main/Projects/Data%20Leak%20Wooksheet.pdf)
+- 🔐 [Data Handling Practices](https://github.com/Olsidoci/risk-compliance/blob/main/data-handling/Data%20Leak%20Wooksheet%20(1).pdf)
 - 🔑 [Hash Value Encryption](https://github.com/Olsidoci/hashvalues)
 
 #### 🛡️ Assets, Threats & Network Defense
